@@ -51,4 +51,4 @@ To use the Memoria project, you'll need to have Python and the VLC media player 
 - Audio channels configuration: [Jurij Podgoršek](https://github.com/g1smo)
 
 # Hardware design
-M0 – [COPINCHA](https://copincha.org/)
+All hardware is housed in a custom case, a sculptural object in itself that was molded by using FOSS and 3D printed from recycled plastic filaments in collaboration with [COPINCHA](https://copincha.org/), a hackerspace in Havana that works with local materials and technologies.
