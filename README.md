@@ -48,7 +48,7 @@ To use the Memoria project, you'll need to have Python and the VLC media player 
 # Software developer and programming
 [Eduardo Pujol](https://github.com/kopekC)
 
-- Audio channels configuration: [g1smo](https://github.com/g1smo)
+- Audio channels configuration: [Jurij Podgoršek](https://github.com/g1smo)
 
 # Hardware design
 M0 – [COPINCHA](https://copincha.org/)
