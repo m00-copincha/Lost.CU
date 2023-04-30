@@ -41,14 +41,14 @@ To use the Memoria project, you'll need to have Python and the VLC media player 
 
 ```python3 Lost-CU.py```
 
-# In collaboration with:  
+## In collaboration with
 [Steffen Köhn](http://steffenkoehn.com/) 
 
 
-# Software developer and programming
+## Software developer and programming
 [Eduardo Pujol](https://github.com/kopekC)
 
 - Audio channels configuration: [Jurij Podgoršek](https://github.com/g1smo)
 
-# Hardware design
+## Hardware design
 All hardware is housed in a custom case, a sculptural object in itself that was molded by using FOSS and 3D printed from recycled plastic filaments in collaboration with [COPINCHA](https://copincha.org/), a hackerspace in Havana that works with local materials and technologies.
